@@ -1,18 +1,27 @@
-### Hi there 👋
+# Hi there :wave:
 
-#### Argvchs
--   ✨ Blog: <https://argvchs.github.io>
+> Tell me, does the **god Argvchs** bleed?
+> 
+> No, but you will.
 
-Here are some ideas to get you started:
+## :bulb: 语言
 
--   🔭 I’m currently working on ...
--   🌱 I’m currently learning ...
--   👯 I’m looking to collaborate on ...
--   🤔 I’m looking for help with ...
--   💬 Ask me about ...
--   📫 How to reach me: ...
--   😄 Pronouns: ...
--   ⚡ Fun fact: ...
+-   :unicorn: C/C++
+-   :snake: Python
+-   :baby_chick: JS / Node.js
+-   :whale: Bash
+-   :cat: Vue 2 / Vue 3
+-   :dog: React
+-   :elephant: Electron
+
+## :sparkles: 账号
+
+| Website | Account                                                                                 |
+| :-----: | :-------------------------------------------------------------------------------------- |
+|   QQ    | Argvchs: [**3364555156**](http://wpa.qq.com/msgrd?v=3&uin=3364555156&site=qq&menu=true) |
+| Github  | Argvchs: [**argvchs**](https://github.com/argvchs)                                      |
+| Twitter | Argvchs: [**argvchs**](https://twitter.com/argvchs)                                     |
+|  Luogu  | Argvekr_chs: [**533270**](https://www.luogu.com.cn/user/533270)                         |
 
 ![](https://github-readme-stats.vercel.app/api?username=argvchs&show_icons=true)
 
