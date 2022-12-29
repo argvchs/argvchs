@@ -4,7 +4,7 @@
 > 
 > No, but you will.
 
-## :bulb: 语言
+## :bulb: Programming Languages
 
 -   :unicorn: C/C++
 -   :snake: Python
@@ -14,7 +14,7 @@
 -   :dog: React
 -   :elephant: Electron
 
-## :sparkles: 账号
+## :sparkles: Accounts
 
 | Website | Account                                                                                 |
 | :-----: | :-------------------------------------------------------------------------------------- |
