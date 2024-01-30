@@ -1,9 +1,6 @@
 
 # Hi there :wave:
 
-> Tell me... Does **Argvchs the God** bleed?
-> No. But **you** will.
-
 ## :bulb: Programming Languages
 
 -   :unicorn: C/C++
